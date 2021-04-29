@@ -1,0 +1,110 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: serif;
+    font-family: 'Merriweather', serif;;
+}
+.div1{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+.cloud1 {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+.cloud2{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    margin: 50px auto 0;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.div2{
+    margin: 100px 0;
+}
+.frishta{
+    border-radius: 50%;
+}
+.biography{
+    width: 30%;
+    margin: auto;
+}
+p{
+    line-height: 2;
+    font-size: 17px;
+}
+hr{
+    border: dotted #EAF6F6 6px ;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto ;
+}
+.codeing{
+    float: left;
+    width: 25%;
+}
+h3{
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+.skills{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+}
+.chillie{
+    float: right;
+    width: 25%;
+    margin-left: 30px;
+}
+.touch{
+    width: 40%;
+    margin: 40px auto;
+}
+.button{
+    background-color: #66BFBF;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.div3{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+a{
+    color: #006a70;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+.copy{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
